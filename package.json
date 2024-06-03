@@ -20,7 +20,7 @@
     "stream-json": "^1.8.0"
   },
   "devDependencies": {
-    "@types/node": "^20.12.13",
+    "@types/node": "^20.14.0",
     "@types/parquetjs": "^0.10.6",
     "@types/stream-chain": "^2.1.0",
     "@types/stream-json": "^1.7.7",
